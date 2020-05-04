@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript module to scrape site data and generate a link preview popup",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "repository": "rishabr17/preview-link-js",
   "keywords": [
     "JavaScript",
     "ReactJS",
