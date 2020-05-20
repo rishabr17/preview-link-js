@@ -1,6 +1,6 @@
 {
   "name": "preview-link-js",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "description": "JavaScript module to scrape site data and generate a link preview popup",
   "main": "index.js",
   "repository": "rishabr17/preview-link-js",
